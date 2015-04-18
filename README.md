@@ -5,9 +5,13 @@ Here what I have provide the program is to control system Mouse using Leap Motio
 For more information related to Leap Motion Device visit https://www.leapmotion.com/ web site if you dont know about Leap Motion device
 
 Firstly I will let you know how these program works:
+
 1. Once you run the program it will get started into system tray of your system.
+
 2. Connect your Leap Motion Device to system.
+
 3. Then right click over the Icon and click Start and perform the gesture over device what I have specified below to control mouse.
+
 4. If you do like to stop application then right click on icon and select Stop option then system will get exit. 
 
 So the operation which we perform using mouse as:
