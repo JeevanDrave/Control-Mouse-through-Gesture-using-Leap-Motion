@@ -17,6 +17,7 @@ So the operation which we perform using mouse as:
 4. Mouse Wheel Scroll
 
 To operate these mouse opertaion through gesture I have specifed specific gesture to each as described below:
+
 1. Mouse Cursor Move: To move mouse cursor use your only right hand with all fingers closed/closed fist and then move your hand cursor will move.
 
 2. Mouse Left Button Click: Use only right hand with close fist to point and use only left hand with index finger enabled(extended) and perform key tap gesture to perform left click.
