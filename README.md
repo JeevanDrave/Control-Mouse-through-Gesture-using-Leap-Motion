@@ -11,10 +11,15 @@ Firstly I will let you know how these program works:
 4. If you do like to stop application then right click on icon and select Stop option then system will get exit. 
 
 So the operation which we perform using mouse as:
+
 1. Mouse Cursor Move
+
 2. Mouse Left Button Click
+
 3. Mouse Right Button Click
+
 4. Mouse Wheel Scroll
+
 
 To operate these mouse opertaion through gesture I have specifed specific gesture to each as described below:
 
